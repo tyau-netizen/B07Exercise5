@@ -1,5 +1,3 @@
-package exercise4;
-
 public class Triangle {
 	Point A;
 	Point B;
